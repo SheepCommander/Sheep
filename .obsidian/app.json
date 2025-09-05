@@ -1,5 +1,7 @@
 {
   "attachmentFolderPath": "assets",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Notes"
+  "newFileFolderPath": "Notes",
+  "alwaysUpdateLinks": true,
+  "vimMode": true
 }

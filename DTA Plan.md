@@ -1,3 +1,4 @@
+# DTA - Computer Science
 ### General Education Requirements - 20 Credits
 - [x] Communication (10 Credits)
 	- [x] Engl& 101 - AP Lang
