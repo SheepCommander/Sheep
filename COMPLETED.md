@@ -1,0 +1,7 @@
+- [x] Send AP transcripts to SCC
+- [x] Report transcripts to Common App
+- [x] Report Parents Education on Common App
+- [x] Demographics
+- [x] Look at Common App personal statement prompts
+- [x] Email counselor running start
+- [x] Email counselor HiHo attendance

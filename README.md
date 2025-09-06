@@ -1,10 +1,12 @@
 - [[DTA Plan]]
 
-- Sign up for Economics
-- Sign up for (Art history?)
+P0
+- [ ] Sign up for Economics - Today
+P1
+- [ ] Sign up for (Art history?)
 
+P1
 [[UW Common App]]:
-- [ ] Parents
 - Honors
 - Activities
 - Writing
@@ -26,7 +28,7 @@ Linux:
 - [ ] CachyOS
 - [ ] [[Niri Desktop]]
 
-Schizo:
+Silly:
 - [ ] Delete all accounts associated with o
 - [ ] Delete o
 - [ ] Delete all accounts associated with a
@@ -34,11 +36,19 @@ Schizo:
 - [ ] Delete all accounts associated with e
 - [ ] Create new email
 - [ ] Create backup account with new email
+- [ ] (Download school Drive)
 
-[[Minute Flexibility]]
+[[Flexibility]]
 [[Breakdancing]]
 [[Drawing]]
 [[Handwriting]]
+
+[[Sign Language]]
+[[Indonesian]]
+[[Chinese]]
+[[Japanese]]
+
+[[Voice Training]]
 
 [[Osu!]]
 [[ADOFAI]]
@@ -55,3 +65,8 @@ Schizo:
 
 - [ ] Buy a [[Monitor]]
 - [ ] Buy a Video Cam
+
+[[Cheat Engine]]
+
+- [ ] [[YouTube]]
+- [ ] 

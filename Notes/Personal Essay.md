@@ -7,3 +7,7 @@ The essay demonstrates your ability to write clearly and concisely on a selected
 5. Discuss an accomplishment, event, or realization that sparked a period of personal growth and a new understanding of yourself or others.
 6. Describe a topic, idea, or concept you find so engaging that it makes you lose all track of time. Why does it captivate you? What or who do you turn to when you want to learn more?
 7. Share an essay on any topic of your choice. It can be one you've already written, one that responds to a different prompt, or one of your own design.
+
+
+---
+[This Common App Essay Formula Works EVERY Time| The Double Problem Solution](https://youtu.be/ixhJ2xz4eAo)
