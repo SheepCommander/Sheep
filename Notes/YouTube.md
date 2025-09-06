@@ -1,3 +1,7 @@
+# VT
+https://youtu.be/b_F-zFpa5D8
+
+# Bitrate
 https://nvidia.com/en-us/geforce/guides/broadcasting-guide/
 
 |                  |             | **Resolution** |          |         |

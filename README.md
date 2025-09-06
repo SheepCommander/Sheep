@@ -1,9 +1,8 @@
 - [[DTA Plan]]
 
-P0
-- [ ] Sign up for Economics - Today
 P1
-- [ ] Sign up for (Art history?)
+- [ ] Sign up for Economics - Monday
+- [ ] Sign up for (Art history?) - Monday
 
 P1
 [[UW Common App]]:
@@ -12,8 +11,8 @@ P1
 - Writing
 	- [[Personal Essay]]
 	- [[Additional Information]]
-UBC:
 
+P2
 [[Scholarships]]
 
 ---
@@ -24,8 +23,7 @@ UBC:
 
 - [ ] LASER
 
-Linux:
-- [ ] CachyOS
+CachyOS:
 - [ ] [[Niri Desktop]]
 
 Silly:
@@ -40,6 +38,8 @@ Silly:
 
 [[Flexibility]]
 [[Breakdancing]]
+- [ ] [[Aerials]]
+
 [[Drawing]]
 [[Handwriting]]
 
@@ -50,9 +50,9 @@ Silly:
 
 [[Voice Training]]
 
+[[MonkeyType]]
 [[Osu!]]
 [[ADOFAI]]
-[[MonkeyType]]
 [[Maiden&Spell]]
 [[Mindustry Evict]]
 [[Yoiyami Dancers]]
@@ -68,5 +68,5 @@ Silly:
 
 [[Cheat Engine]]
 
-- [ ] [[YouTube]]
-- [ ] 
+- [ ] [[YouTube]] / VTuber
+- [ ] [[Job]]

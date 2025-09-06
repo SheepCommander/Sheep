@@ -5,3 +5,7 @@
 - [x] Look at Common App personal statement prompts
 - [x] Email counselor running start
 - [x] Email counselor HiHo attendance
+- [x] Upload to github
+
+- [x] Prevent gmail from closing
+- [x] Cancel photos sync
