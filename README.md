@@ -1,15 +1,11 @@
-- [[DTA Plan]]
-
-P1
 - [ ] Sign up for Economics - Monday
 - [ ] Sign up for (Art history?) - Monday
 - [ ] Return SD card reader
 
-P1
 [[UW Common App]]:
-- Honors
-- Activities
-- Writing
+- Honors - P1 Friday
+- Activities - P1 Friday
+- Writing - P1 draft Sunday?
 	- [[Personal Essay]]
 	- [[Additional Information]]
 
