@@ -3,6 +3,7 @@
 P1
 - [ ] Sign up for Economics - Monday
 - [ ] Sign up for (Art history?) - Monday
+- [ ] Return SD card reader
 
 P1
 [[UW Common App]]:
@@ -14,6 +15,10 @@ P1
 
 P2
 [[Scholarships]]
+- [ ] Clean my desk & room
+
+P3
+- [ ] Bigger desk
 
 ---
 - [ ] CLEAN MY GMAIL
@@ -38,7 +43,8 @@ Silly:
 
 [[Flexibility]]
 [[Breakdancing]]
-- [ ] [[Aerials]]
+[[Aerials]] 
+- Skiing: 360s
 
 [[Drawing]]
 [[Handwriting]]
@@ -56,17 +62,17 @@ Silly:
 [[Maiden&Spell]]
 [[Mindustry Evict]]
 [[Yoiyami Dancers]]
-- Mystia's Izakaya!
+Mystia's Izakaya!
+
 [[Audacity]]
 [[Reaper Ardour]]
 [[Godot]]
 [[DaVinci Resolve]]
 [[Blender]]
 
-- [ ] Buy a [[Monitor]]
-- [ ] Buy a Video Cam
-
 [[Cheat Engine]]
 
+- [ ] Buy a [[Monitor]]
+- [ ] Buy a Video Cam
 - [ ] [[YouTube]] / VTuber
 - [ ] [[Job]]

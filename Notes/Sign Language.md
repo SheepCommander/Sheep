@@ -3,6 +3,9 @@ https://fmhy.net/educational#sign-language
 - Alphabet practice https://asl.ms/
 - ASL Course https://www.signschool.com
 
+![[Sign_alphabet_chart_abc-3325982622.jpg]]
+
+
 ---
 - Chrome Browser Extension https://signlearner.com/
 - Freemium Firefox extension https://addons.mozilla.org/en-US/firefox/addon/signspaces-learn-signs/ 
