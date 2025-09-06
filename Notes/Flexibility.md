@@ -21,6 +21,7 @@ Ankles: https://youtu.be/otH0z6GLxig - once a week
 - Floor rockers side-side 15x
 - Tibialis raise
 
+Runners Lunge
 
 ---
 > Horse Stance Cossack Squats x3-5 reps

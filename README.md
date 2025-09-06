@@ -12,6 +12,7 @@
 P2
 [[Scholarships]]
 - [ ] Clean my desk & room
+- [ ] Pay $15 https://wa-shoreline.intouchreceipting.com/
 
 P3
 - [ ] Bigger desk
