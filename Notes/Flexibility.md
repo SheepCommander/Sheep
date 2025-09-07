@@ -23,6 +23,8 @@ Ankles: https://youtu.be/otH0z6GLxig - once a week
 
 Runners Lunge
 
+Strength at end ROM (tighten x10, twice a week) https://youtu.be/NwX2dh0dwNA
+
 ---
 > Horse Stance Cossack Squats x3-5 reps
 > Bear Walk x10-15 steps  (squeezing thighs to ribs)

@@ -1,8 +1,6 @@
 - [ ] Sign up for Economics - Monday
 - [ ] Sign up for (Art history?) - Monday
-- [ ] Return SD card reader
 - [ ] P0 - SHOES TODAY
-- [ ] P0 Print TWO COPIES of Reverse Ideology
 - [ ] Move teacher Jal's piano recordings here maybe?
 
 [[UW Common App]]:
@@ -20,11 +18,14 @@ P2
 P3
 - [ ] Bigger desk
 
+Fall: phys 221, econ 201, humanities
+
+winter: math 163, social science of your choice
+
+Spring: JAPN 123, natural science of your choice
+
 ---
 - [ ] CLEAN MY GMAIL
-- [ ] DELETE MY PHOTOS STUFF
-- [ ] COPY MY PHONE
-- [ ] CLEAN MY PHONE
 
 - [ ] LASER
 
@@ -41,7 +42,7 @@ Silly:
 
 [[Flexibility]]
 [[Breakdancing]]
-[[Aerials]] 
+[[Abilities]] 
 - Skiing: 360s
 
 [[Drawing]] PixiEditor Krita?
@@ -76,3 +77,8 @@ Mystia's Izakaya!
 - [ ] [[Job]]
 
 [[Piano]]
+
+---
+
+GitHub PAT https://github.com/settings/personal-access-tokens/5923112
+66646514+SheepCommander@users.noreply.github.com

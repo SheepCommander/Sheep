@@ -9,3 +9,9 @@
 
 - [x] Prevent gmail from closing
 - [x] Cancel photos sync
+- [x] P0 Print TWO COPIES of Reverse Ideology
+- [x] Return SD card reader
+- [x] COPY MY PHONE
+- [x] DELETE MY PHOTOS STUFF
+- [x] CLEAN MY PHONE
+- [x] Add stuff to WiFi note
