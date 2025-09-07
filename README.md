@@ -30,9 +30,7 @@ CachyOS:
 
 Silly:
 - [ ] Delete all accounts associated with o
-- [ ] Delete o
 - [ ] Delete all accounts associated with a
-- [ ] Delete a
 - [ ] Delete all accounts associated with e
 - [ ] Create new email
 - [ ] Create backup account with new email
