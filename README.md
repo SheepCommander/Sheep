@@ -1,6 +1,9 @@
 - [ ] Sign up for Economics - Monday
 - [ ] Sign up for (Art history?) - Monday
 - [ ] Return SD card reader
+- [ ] P0 - SHOES TODAY
+- [ ] P0 Print TWO COPIES of Reverse Ideology
+- [ ] Move teacher Jal's piano recordings here maybe?
 
 [[UW Common App]]:
 - Honors - P1 Friday
@@ -41,7 +44,7 @@ Silly:
 [[Aerials]] 
 - Skiing: 360s
 
-[[Drawing]]
+[[Drawing]] PixiEditor Krita?
 [[Handwriting]]
 
 [[Sign Language]]
@@ -69,5 +72,7 @@ Mystia's Izakaya!
 
 - [ ] Buy a [[Monitor]]
 - [ ] Buy a Video Cam
-- [ ] [[YouTube]] / VTuber
+- [ ] [[YouTube]] / VTuber (Inochi2d?)
 - [ ] [[Job]]
+
+[[Piano]]

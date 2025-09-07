@@ -1,4 +1,6 @@
-- Daily ALARM: 9:30 chill
+- Daily ALARM: 9:30 chill?
+- Wakeup alarm: 11:00am
+- Wakeup alarm: 12:00pm oh-f
 # School: TUESDAY & FRIDAY
 - HiHo 9:40-10:15
 - **Period 4: 10:30**
