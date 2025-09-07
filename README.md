@@ -2,6 +2,8 @@
 - [ ] Sign up for (Art history?) - Monday
 - [ ] P0 - SHOES TODAY
 - [ ] Move teacher Jal's piano recordings here maybe?
+- [ ] Setup alarms again
+- [ ] 
 
 [[UW Common App]]:
 - Honors - P1 Friday

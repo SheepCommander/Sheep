@@ -20,3 +20,17 @@ https://musescore.com/user/38235231/scores/5008586
 Cirno's Perfect Math Class
 https://musescore.com/user/71430/scores/109844
 [[Cirno's Perfect Math Class.pdf]]
+
+---
+# RCM
+Here is the pieces Mel would like to learn from Royal Conservatory Level 6 , ranking from most interested to least interested:
+Broken Record
+A Winter Scene
+Sonatina in C Major by Kuhlau
+Bright Orange
+Dance
+Fantasy
+Study in E Minor by Bertini
+On the Lake
+Burlesca
+Roundup
