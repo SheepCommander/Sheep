@@ -76,7 +76,7 @@ Mystia's Izakaya!
 [[Cheat Engine]]
 
 - [ ] Buy a [[Monitor]]
-- [ ] Buy a Video Cam
+- [ ] Buy a Video [[Camera]]
 - [ ] [[YouTube]] / VTuber (Inochi2d?)
 - [ ] [[Job]]
 
