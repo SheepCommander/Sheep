@@ -15,3 +15,5 @@
 - [x] DELETE MY PHOTOS STUFF
 - [x] CLEAN MY PHONE
 - [x] Add stuff to WiFi note
+- [x] P0 - SHOES TODAY
+- [x] Setup alarms again

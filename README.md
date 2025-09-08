@@ -1,8 +1,3 @@
-- [ ] Sign up for Economics - Monday
-- [ ] Sign up for (Art history?) - Monday
-- [ ] P0 - SHOES TODAY
-- [ ] Move teacher Jal's piano recordings here maybe?
-- [ ] Setup alarms again
 - [ ] Remove YT playlists
 - [ ] Delete e photos app
 - [ ] Move to a photos app

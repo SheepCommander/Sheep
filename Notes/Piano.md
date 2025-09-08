@@ -1,11 +1,11 @@
 Reverse Ideology pg 33
 https://musescore.com/user/36058653/scores/7116344
-[[Reverse Ideology.pdf]]
+- [[Reverse Ideology.pdf]]
 
 Bad Apple
 https://youtu.be/x4cNz4G1p2s
 https://drive.google.com/file/d/1KKMricW5k7M2gGHt0RXZxnrxUP1CkiFz/view?usp=drivesdk
-[[Bad_Apple.pdf]]
+- [[Bad_Apple.pdf]]
 
 The World is Made in an Adorable Way
 https://musescore.com/user/4206251/scores/11340166
@@ -19,7 +19,7 @@ https://musescore.com/user/38235231/scores/5008586
 
 Cirno's Perfect Math Class
 https://musescore.com/user/71430/scores/109844
-[[Cirno's Perfect Math Class.pdf]]
+- [[Cirno's Perfect Math Class.pdf]]
 
 ---
 # RCM
