@@ -3,7 +3,9 @@
 - [ ] P0 - SHOES TODAY
 - [ ] Move teacher Jal's piano recordings here maybe?
 - [ ] Setup alarms again
-- [ ] 
+- [ ] Remove YT playlists
+- [ ] Delete e photos app
+- [ ] Move to a photos app
 
 [[UW Common App]]:
 - Honors - P1 Friday
