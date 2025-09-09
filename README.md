@@ -1,12 +1,15 @@
 - [ ] YT Playlists
 - [ ] Photos app
 
-- [ ] Steam top
+- [x] Steam top & bottom
 - [ ] Pay picture day
-- [ ] Wash dirties
-- [ ] Wash bottom
+- [x] Wash dirties
+- [x] Shower
+- [x] Do nails
+- [x] Do hair
 
 - [ ] Finish Ch11
+- [ ] BRING PIANO BOOKS
 
 - [ ] Figure out [[DTA Plan]] and sign up
 

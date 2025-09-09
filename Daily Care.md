@@ -14,3 +14,5 @@ Manual https://drive.google.com/file/d/11i67r9Lwurs3ohixXWj40SAZj9ux21EZ/view
 5. **Pat** dry (do not scrub)
 6. Apply aloe to entire lower body (moisturizer might clog?)
 	- Also apply again next day maybe
+
+---

@@ -19,3 +19,4 @@
 - [x] Setup alarms again
 - [x] Pay $15 https://wa-shoreline.intouchreceipting.com/
 - [x] CLEAN MY GMAIL
+- [x] Tell intern I need to leave
