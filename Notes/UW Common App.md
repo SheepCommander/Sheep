@@ -6,6 +6,11 @@
 [Enrichment](https://docs.google.com/document/d/1r58rwXyS6WJoIJrbsyfPenmhATSiphgj5KdeHp6CWmQ/edit?tab=t.0)
 
 ---
+
+[What 100 College Essays Taught Me About Who Gets Rejected](https://youtu.be/i38hpvPp62I)
+[How to Get into Anything You Apply To](https://youtu.be/lPVFfw_buts) - latam, economics, gender politics, journalism, linguistics - budding fascination with quantum computing, cloud computing, cybercurity
+
+---
 Not a laundry list, but an activity that affected you
 THE FOCUS OF THE ESSAY IS YOU
 family, parents, best friends can be important but bring it back to yourself. What does it say about you and your lived experience.

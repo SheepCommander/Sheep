@@ -1,8 +1,17 @@
-- [ ] Remove YT playlists
-- [ ] Delete e photos app
-- [ ] Move to a photos app
+- [ ] YT Playlists
+- [ ] Photos app
+
+- [ ] Steam top
+- [ ] Pay picture day
+- [ ] Wash dirties
+- [ ] Wash bottom
+
+- [ ] Finish Ch11
+
+- [ ] Figure out [[DTA Plan]] and sign up
 
 [[UW Common App]]:
+- [ ] Currently taking classes: P0 soon
 - Honors - P1 Friday
 - Activities - P1 Friday
 - Writing - P1 draft Sunday?
@@ -12,20 +21,12 @@
 P2
 [[Scholarships]]
 - [ ] Clean my desk & room
-- [ ] Pay $15 https://wa-shoreline.intouchreceipting.com/
 
 P3
 - [ ] Bigger desk
-
-Fall: phys 221, econ 201, humanities
-
-winter: math 163, social science of your choice
-
-Spring: JAPN 123, natural science of your choice
+- [ ] Extending my laptop's warranty
 
 ---
-- [ ] CLEAN MY GMAIL
-
 - [ ] LASER
 
 CachyOS:
@@ -57,7 +58,7 @@ Silly:
 [[MonkeyType]]
 [[Osu!]]
 [[ADOFAI]]
-[[Maiden&Spell]]
+Maiden&Spell [mns <3](https://steamcommunity.com/sharedfiles/filedetails/?id=2013901217)
 [[Mindustry Evict]]
 [[Yoiyami Dancers]]
 Mystia's Izakaya!
@@ -81,3 +82,4 @@ Mystia's Izakaya!
 
 GitHub PAT https://github.com/settings/personal-access-tokens/5923112
 66646514+SheepCommander@users.noreply.github.com
+[[COMPLETED]]

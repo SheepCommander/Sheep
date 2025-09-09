@@ -17,3 +17,5 @@
 - [x] Add stuff to WiFi note
 - [x] P0 - SHOES TODAY
 - [x] Setup alarms again
+- [x] Pay $15 https://wa-shoreline.intouchreceipting.com/
+- [x] CLEAN MY GMAIL
