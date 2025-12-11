@@ -1,0 +1,11 @@
+https://youtube.com/watch?v=AIa6PHlYjmw
+- Commits are a snapshot, which point backwards! Their parent commit(s) are from the past!
+- Branch = sticky note/label. It just adds a sticky note onto commit a1b2c3! (Same with Main)
+- HEAD --> tracks your current location. `git checkout feature` moves HEAD to point to a branch label, just for looking around while saving everything else.
+	- Detached HEAD: --> If you checkout an individual commit, without making a branch, any commits you make now will be orphaned as nothing points to them.
+- `git reset` moves the branch sticky note from commit to commit.
+	- `--soft` branch only, keeps staging area and working directory.
+	- `--mixed` moves branch, clears **Staging Area**, keeps **Working Directory.**
+	- `--hard` moves branch, clears staging AND working directory. 
+- `git revert` "undoes" a commit, but shows that in history rather than actually deleting the commit from the database.
+- Rebase: rebasing makes COPIES of the existing commits, and then creates a new commit with a new hash pointing to a new parent. Clean, but can get messy if you mess up.

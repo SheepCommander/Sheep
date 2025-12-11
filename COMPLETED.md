@@ -1,0 +1,4 @@
+- [x] Put lotion, sunscreen, and towel in car
+- [x] Bad Apple flipbook (uncolored QwQ)
+- [x] Extended laptop warranty
+- [x] My first Pen Twirl https://www.instagram.com/reel/DOMG2XDEVXc
