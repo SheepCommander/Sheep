@@ -3,8 +3,6 @@
 
 P0
 - [ ] PSA VIDEO NOW
-- [ ] STUDY CALC 3
-- [ ] Art essay
 
 P1
 - [ ] Book Laser
@@ -19,7 +17,6 @@ P1
 
 ---
 - [ ] Message Popo? L? M? Ci?
-- [ ] Spring cleaning operation dual monitors
 - [ ] Water jug in car
 
 - [ ] Prepare new email (& music playlists)

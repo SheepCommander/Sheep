@@ -2,3 +2,7 @@
 - [x] Bad Apple flipbook (uncolored QwQ)
 - [x] Extended laptop warranty
 - [x] My first Pen Twirl https://www.instagram.com/reel/DOMG2XDEVXc
+- [x] STUDY CALC 3
+- [x] Art essay
+- [x] Spring cleaning operation dual monitors
+- [x] Add to GitHub and open on Phone

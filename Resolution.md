@@ -1,2 +1,5 @@
-- Fluorite brush & waterpik
+- Fluorite brush & waterpik 2x
+- 2 water bottles a day
+- 1 hour stretching a day
+- Typing
 - 

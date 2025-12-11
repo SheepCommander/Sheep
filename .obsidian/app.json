@@ -1,1 +1,6 @@
-{}
+{
+  "attachmentFolderPath": "assets",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "vimMode": true
+}
