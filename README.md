@@ -25,6 +25,8 @@ P1
 - [ ] Make my own CachyOS + Niri dotfiles (or a Noctalia fork)
 - [ ] [Godot Wayland PR](https://github.com/godotengine/godot/pull/107435)
 - [ ] P2 - Onboarding
+- [ ] Better ScreenZen
+- [ ] Better Video Speed Controller
 ---
 [[Flexibility]]
 [[Dancing]]
@@ -37,8 +39,8 @@ P1
 [[Drawing]]
 [[Handwriting]]
 [[Prose]]
-[[Music prod]]
-[[Video prod]] - Silly edits
+[[Music prod]] - [Sound design tool](https://youtu.be/TGczsxuAm1I)
+[[Video prod]] - Silly edits / [Shorts Guide](https://youtu.be/VCCB_WH0vug)
 [[3D Modeling]] - Blender / [Roblox](https://youtu.be/6YlWYGVo7KI)
 - [[Vtuber]]
 
@@ -62,6 +64,8 @@ Mystia's Izakaya!
 ---
 - [ ] P4: Playground: SPIN KIP UP https://youtu.be/CfWWD2zstk8
 [[Photo Composition]]
+[[Speed Reading]]
+
 ---
 End of year:
 - [ ] Download school drive

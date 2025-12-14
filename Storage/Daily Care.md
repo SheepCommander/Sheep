@@ -30,3 +30,7 @@ Manual https://drive.google.com/file/d/11i67r9Lwurs3ohixXWj40SAZj9ux21EZ/view
 	- Also apply again next day maybe
 
 ---
+https://youtube.com/shorts/1dqkG4LVELA
+claims: 
+- Large Pores: salicylic acid (panoxyl clarifying exfoliant)
+- Closed Comedones: Adapalene
