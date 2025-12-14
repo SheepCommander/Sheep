@@ -12,3 +12,9 @@
 - ASL.
 
 - Sheep
+
+Play more Maiden & Spell
+Play more Rabbit & Steel
+Beat Mystia's Izakaya
+5 Digit OSU?
+190wpm MonkeyType
