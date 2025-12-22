@@ -1,5 +1,6 @@
-- Fluorite brush & waterpik 2x
-- Face wash, moisturizer, sunscreen 
+- Fluorite brush & waterpik THREE TIMES A DAY
+- Face wash, moisturizer, sunscreen
+- Tretinoin EVERY NIGHT
 - 2 water bottles a day
 
 - Not cussing in casual conversation
