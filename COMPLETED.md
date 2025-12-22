@@ -6,3 +6,5 @@
 - [x] Art essay
 - [x] Spring cleaning operation dual monitors
 - [x] Add to GitHub and open on Phone
+- [ ] Dec 15 - Burger King Foundation /
+- [ ] 

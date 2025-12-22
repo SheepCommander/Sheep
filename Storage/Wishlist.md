@@ -1,6 +1,13 @@
 - 4k 32" W-OLED 240Hz (W-Oled is better than QD-Oled in bright rooms, but QD-Oled is still good for a lower price)
 	- $850 would be the lowest likely price for a flagship
 - Nice kneesocks / arm sleeves
+- Fitting cotton gloves?
 - Rashguard
 - UV mask
-- 
+- Purple sweater
+- Shower cap
+- Nail polish/kit
+- Calisthenics handles thing
+- Baking soda toothpaste?
+
+- Cosplay: Silksong?
