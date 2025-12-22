@@ -2,11 +2,6 @@
 	- $850 would be the lowest likely price for a flagship
 - Nice kneesocks
 - Nice arm sleeves
-- Rashguard
-- UV mask
-- Hyaluronic acid cream
-- Steam wishlist games: touhou luna knights, Unbeatable, rain world dlc, Guilty Gear -Strive-, Hatsune Miku: Project DIVA Mega Mix+, A Dance of Fire and Ice - Neo Cosmos, [Touhou Juuouen 〜 Unfinished Dream of All Living Ghost.](https://store.steampowered.com/app/2400340/Touhou_Juuouen__Unfinished_Dream_of_All_Living_Ghost?snr=1_25_4__318), Lobotomy Corporation, Silksong, Hero of Ice Fairy DLC1~2, 
-- Nice kneesocks / arm sleeves
 - Fitting cotton gloves?
 - Rashguard
 - UV mask
@@ -15,5 +10,9 @@
 - Nail polish/kit
 - Calisthenics handles thing
 - Baking soda toothpaste?
+- New high quality trackball replacement for the m575
 
 - Cosplay: Silksong?
+
+---
+Steam wishlist games: touhou luna knights, Unbeatable, rain world dlc, Guilty Gear -Strive-, Hatsune Miku: Project DIVA Mega Mix+, A Dance of Fire and Ice - Neo Cosmos, [Touhou Juuouen 〜 Unfinished Dream of All Living Ghost.](https://store.steampowered.com/app/2400340/Touhou_Juuouen__Unfinished_Dream_of_All_Living_Ghost?snr=1_25_4__318), Lobotomy Corporation, Silksong, Hero of Ice Fairy DLC1~2, 
