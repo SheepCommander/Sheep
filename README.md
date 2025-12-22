@@ -10,6 +10,7 @@ P1
 - [ ] https://rxresu.me/
 	- [ ] Send out resume https://swelist.com https://github.com/SimplifyJobs/Summer2026-Internships
 - [ ] Dec 15 - Burger King Foundation
+- [ ] [[Scholarships]]
 
 
 
