@@ -3,6 +3,7 @@
 
 P0
 - [ ] PSA VIDEO NOW
+26th - Mama pay my dental thing
 
 P1
 - [ ] Book Laser
@@ -20,7 +21,6 @@ P1
 - [ ] Water jug in car
 
 - [ ] Prepare new email (& music playlists)
-- [ ] Unattended windows
 - [ ] Finish Ch11
 - [ ] Make my own CachyOS + Niri dotfiles (or a Noctalia fork)
 - [ ] [Godot Wayland PR](https://github.com/godotengine/godot/pull/107435)

@@ -7,4 +7,6 @@
 - [x] Spring cleaning operation dual monitors
 - [x] Add to GitHub and open on Phone
 - [ ] Dec 15 - Burger King Foundation /
-- [ ] 
+- [x] Print insurance
+- [x] Wrap present
+- [x] Unattended windows
