@@ -16,6 +16,7 @@
 
 Play more Maiden & Spell
 Play more Rabbit & Steel
+Speedrun Minesweeper
 Beat Mystia's Izakaya
 5 Digit OSU?
 190wpm MonkeyType

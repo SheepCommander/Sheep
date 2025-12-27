@@ -20,8 +20,9 @@
 - Cosplay ideas: Hornet? Trixie? A? Horse?
 
 ---
-Steam wishlist games: touhou luna knights, Unbeatable, rain world dlc, Guilty Gear -Strive-, Hatsune Miku: Project DIVA Mega Mix+, A Dance of Fire and Ice - Neo Cosmos, [Touhou Juuouen 〜 Unfinished Dream of All Living Ghost.](https://store.steampowered.com/app/2400340/Touhou_Juuouen__Unfinished_Dream_of_All_Living_Ghost?snr=1_25_4__318), Lobotomy Corporation, Silksong, Hero of Ice Fairy DLC1~2, 
-
+Steam Wishlist (new games):
+1. 
+2. Duelists of Eden
 
 Also:
 - At some point maybe an SDXC usb card reader (300MB/s)
