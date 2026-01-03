@@ -10,3 +10,9 @@
 - [x] Print insurance
 - [x] Wrap present
 - [x] Unattended windows
+
+- [x] UV mask
+- [x] Purple sweater
+- [x] Shower cap
+- [x] Cute neck pillow that doubles as plushie
+- [x] GL books
