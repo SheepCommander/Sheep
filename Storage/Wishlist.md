@@ -18,6 +18,7 @@
 - Fumos (don't need to be official, just look cute!!)
 
 - Cosplay ideas: Hornet? Trixie? A? Horse?
+- Low profile, tactile (or similar to tactile) keyboard switches for the Keychron K3 Max
 
 ---
 Steam Wishlist (new games):
