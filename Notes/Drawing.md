@@ -7,3 +7,5 @@ Hydrophobic https://youtube.com/shorts/XNAjnnSWMaU?si=Uzc_5WGN6KtwH_5Y
 Flourish/line control exercise https://m.youtube.com/shorts/NdwZbQyQucs
 
 Dynamic poses exercise starting with a bean https://m.youtube.com/shorts/npj8hlGXAA0
+
+Reference https://www.facely3d.com/
