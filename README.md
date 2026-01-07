@@ -3,7 +3,6 @@
 
 P0
 - [ ] PSA VIDEO NOW
-26th - Mama pay my dental thing
 
 P1
 - [ ] Book Laser

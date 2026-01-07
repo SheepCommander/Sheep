@@ -10,6 +10,7 @@
 - [x] Print insurance
 - [x] Wrap present
 - [x] Unattended windows
+- [x] Letter for teacher
 
 - [x] UV mask
 - [x] Purple sweater

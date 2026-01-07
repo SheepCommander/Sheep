@@ -18,10 +18,8 @@
 Steam Wishlist:
 1. Muse Dash - Muse Plus (Never goes below $21 on Steam)
 2. Duelists of Eden
-3. Hatsune Miku: Project DIVA Mega Mix+ (Never goes below $15.75 on Steam)
-4. Guilty Gear -Strive- (Never goes below $20 on Steam)
-5. Risk of Rain 2 ($8.24)
-6. Everything else at the top of my wishlist BEFORE Rhythia / the wall of "Coming Soon" games
+3. Guilty Gear -Strive- (Never goes below $20 on Steam)
+4. Everything else at the top of my wishlist BEFORE Rhythia / the wall of "Coming Soon" games
 
 Also:
 - At some point maybe an SDXC usb card reader (300MB/s)
