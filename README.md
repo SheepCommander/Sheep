@@ -2,7 +2,13 @@
 - [ ] I made a bisexual boy leave discord and Milo told me off for being bad
 
 P0
-- [ ] PSA VIDEO NOW
+- [ ] PSA VIDEO NOW NOW
+- [ ] COMEDY VIDEO
+- [ ] mouth guard
+- [ ] Shop with Mama
+- [ ] Sign up comps? https://ifsafreeride.org/competition/junior-ski-u15/
+- [ ] Buy Glycolic acid & Urea cream?
+- [ ] Beekeeper suit
 
 P1
 - [ ] Book Laser
@@ -15,8 +21,6 @@ P1
 
 
 
----
-- [ ] Message Popo? L? M? Ci?
 - [ ] Water jug in car
 
 - [ ] Prepare new email (& music playlists)
@@ -29,6 +33,7 @@ P1
 ---
 [[Flexibility]]
 [[Dancing]]
+[[Breaking]]
 [[Walking faster than you run]]   https://youtu.be/Nay3fwLlrQs
 - [ ] Tricker Aerials: (1) https://youtu.be/wswSmHxNW1w (2) https://youtu.be/7Oym9lfRxDg
 - [ ] Bent-arm Planche https://youtube.com/shorts/mIPZLW0KYdE

@@ -17,3 +17,6 @@
 - [x] Shower cap
 - [x] Cute neck pillow that doubles as plushie
 - [x] GL books
+- [x] Water pack
+- [x] GoPro
+- [x] Message Popo? L? M? Ci?

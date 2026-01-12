@@ -7,3 +7,6 @@
 - Anchor elbows to body, and pinky to surface, to mimic ergonomics.
 - Set 10 min timer if you get good
 
+[Ambidexterity](https://m.youtube.com/shorts/UqVBadNNOfo)
+- Write name with left hand ten times a day
+- Pick up beads on and off a small stake
