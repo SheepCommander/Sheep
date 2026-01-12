@@ -4,11 +4,6 @@
 P0
 - [ ] PSA VIDEO NOW NOW
 - [ ] COMEDY VIDEO
-- [ ] mouth guard
-- [ ] Shop with Mama
-- [ ] Sign up comps? https://ifsafreeride.org/competition/junior-ski-u15/
-- [ ] Buy Glycolic acid & Urea cream?
-- [ ] Beekeeper suit
 
 P1
 - [ ] Book Laser
@@ -17,8 +12,15 @@ P1
 	- [ ] Send out resume https://swelist.com https://github.com/SimplifyJobs/Summer2026-Internships
 - [ ] [[Scholarships]]
 
+P2
+- [ ] mouth guard
+- [ ] Shop with Mama
+- [ ] Sign up comps? https://ifsafreeride.org/competition/junior-ski-u15/
+- [ ] Buy Glycolic acid & Urea cream?
+- [ ] Beekeeper suit
 
-
+P3
+- [ ] Reflective (not LED) short-string Leviwand?
 
 
 - [ ] Water jug in car
@@ -26,7 +28,6 @@ P1
 - [ ] Prepare new email (& music playlists)
 - [ ] Finish Ch11
 - [ ] Make my own CachyOS + Niri dotfiles (or a Noctalia fork)
-- [ ] [Godot Wayland PR](https://github.com/godotengine/godot/pull/107435)
 - [ ] P2 - Onboarding
 - [ ] Better ScreenZen
 - [ ] Better Video Speed Controller

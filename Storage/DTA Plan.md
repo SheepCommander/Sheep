@@ -15,8 +15,8 @@
 > Comp Sci Pre-Major: No more than 5 credits in a world language at the 100 level.
 - [ ] [Natural Sciences](https://catalog.shoreline.edu/content.php?catoid=10&navoid=1030&hl=%22natural+sciences%22&returnto=search) (15 Credits)
 	- [x] MATH& 152 Calculus II  - AP Calc AB 5
-	- [ ] PHYS& 221 Engineering Physics I w/Lab: Mechanics - Winter 
-	- [ ] PHYS& 222 Engineering Physics II w/Lab: Electromagnetism - Spring
+	- [ ] CHEM& 171 In-Organic Chemistry I w/ Lecture - Winter
+	- [ ] PHYS& 221 Engineering Physics I w/Lab: Mechanics - Spring 
 - [ ] [Social Sciences](https://catalog.shoreline.edu/preview_program.php?catoid=10&poid=2742) (15 Credits) # not history class
 	- [x] HIST& 136 U.S. History 1: To 1877  - APUSH 4
 	- [x] ECON& 201 Micro Economics
