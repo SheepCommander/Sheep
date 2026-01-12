@@ -23,8 +23,8 @@
 	- [ ] ECON& 202 Macro Economics - Winter
 
 Fall: math 163, econ 201, art 234
-winter: phys 221, econ 202
-Spring: phys 222, JAPN 123
+winter: chem 171 + 181, econ 202
+Spring: phys 221, JAPN 123
 ## CS 10-13 credits
 - [x] CS& 141
 - [x] CS 143
