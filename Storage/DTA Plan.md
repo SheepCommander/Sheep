@@ -22,7 +22,7 @@
 	- [x] ECON& 201 Micro Economics
 	- [ ] ECON& 202 Macro Economics (Spring)
 
-## CS 10-13 credits
+## CS 10 credits
 - [x] CS& 141
 - [x] CS 143
 ## General Electives - 15 Credits
