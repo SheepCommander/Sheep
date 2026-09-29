@@ -8,19 +8,19 @@
 - [x] Quantitative/Symbolic Reasoning (5 Credits)
 	- [x] MATH& 151 Calculus I  - AP Calc AB
 ### Distribution Requirements - 45 Credits
-- [ ] [Humanities](https://catalog.shoreline.edu/preview_program.php?catoid=9&poid=2415) (15 Credits)
+- [x] [Humanities](https://catalog.shoreline.edu/preview_program.php?catoid=9&poid=2415) (15 Credits)
 	- [x] Film 256 - Video Production I: 5
-	- [ ] ASL& 121 (Spring)
+	- [x] ASL& 121 (Spring)
 	- [x] ART 234 History of Animation
 > Comp Sci Pre-Major: No more than 5 credits in a world language at the 100 level.
-- [ ] [Natural Sciences](https://catalog.shoreline.edu/content.php?catoid=10&navoid=1030&hl=%22natural+sciences%22&returnto=search) (15 Credits)
+- [x] [Natural Sciences](https://catalog.shoreline.edu/content.php?catoid=10&navoid=1030&hl=%22natural+sciences%22&returnto=search) (15 Credits)
 	- [x] MATH& 152 Calculus II  - AP Calc AB 5
 	- [x] CHEM& 171 In-Organic Chemistry I w/ Lecture
-	- [ ] CHEM& 172 In-Organic Chemistry I w/ Lecture (Spring)
-- [ ] [Social Sciences](https://catalog.shoreline.edu/preview_program.php?catoid=10&poid=2742) (15 Credits) # not history class
+	- [x] CHEM& 172 In-Organic Chemistry I w/ Lecture (Spring)
+- [x] [Social Sciences](https://catalog.shoreline.edu/preview_program.php?catoid=10&poid=2742) (15 Credits) # not history class
 	- [x] HIST& 136 U.S. History 1: To 1877  - APUSH 4
 	- [x] ECON& 201 Micro Economics
-	- [ ] ECON& 202 Macro Economics (Spring)
+	- [x] ECON& 202 Macro Economics (Spring)
 
 ## CS 10 credits
 - [x] CS& 141
